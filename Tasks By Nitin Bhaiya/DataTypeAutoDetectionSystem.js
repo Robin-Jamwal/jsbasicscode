@@ -7,6 +7,6 @@ for (i=0;i<x.length;i++){
     }
     else
     {
-        console.log("it is already anumber")
+        console.log("it is already a number")
     }
 }
